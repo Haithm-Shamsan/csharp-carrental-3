@@ -1,72 +1,40 @@
 ﻿# CarRental(3)
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on vehicle listing, booking flow, and rental business logic, desktop UI interactions with forms and events while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-carrental-3
-- Scan date: 2026-03-26
-- Total tracked files scanned: 139
-- Text files fully read: 102
-- Binary or non-text files: 37
-- Approximate text line count: 71254
+## What I Implemented
+- I implemented vehicle listing, booking flow, and rental business logic.
+- I implemented desktop UI interactions with forms and events.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .cs: 58 files
-- .resx: 29 files
-- .png: 21 files
-- .dll: 16 files
-- .md: 2 files
-- .p7s: 2 files
-- .nupkg: 2 files
-- .config: 2 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
-
-## Project File Sample
-- .gitignore
-- App.config
-- Booking/ctrBookingDetilesWithFilter.Designer.cs
-- Booking/ctrBookingDetilesWithFilter.cs
-- Booking/ctrBookingDetilesWithFilter.resx
-- Booking/ctrBookingInfo.Designer.cs
-- Booking/ctrBookingInfo.cs
-- Booking/ctrBookingInfo.resx
-- Booking/frmAddNewEditBooking.Designer.cs
-- Booking/frmAddNewEditBooking.cs
-- Booking/frmAddNewEditBooking.resx
-- Booking/frmBooking.Designer.cs
-- Booking/frmBooking.cs
-- Booking/frmBooking.resx
-- Booking/frmBookingDetailes.Designer.cs
-- Booking/frmBookingDetailes.cs
-- Booking/frmBookingDetailes.resx
-- CarRental(3).csproj
-- CarRental(3).sln
-- Customers/ctrCustomerInfoWithFilter.Designer.cs
-- Customers/ctrCustomerInfoWithFilter.cs
-- Customers/ctrCustomerInfoWithFilter.resx
-- Customers/ctrPersonInfo.Designer.cs
-- Customers/ctrPersonInfo.cs
-- Customers/ctrPersonInfo.resx
-- Customers/frmAddNewEditCustomer.Designer.cs
-- Customers/frmAddNewEditCustomer.cs
-- Customers/frmAddNewEditCustomer.resx
-- Customers/frmCustomersList.Designer.cs
-- Customers/frmCustomersList.cs
-- Customers/frmCustomersList.resx
-- Customers/frmShowPersonInfo.Designer.cs
-- Customers/frmShowPersonInfo.cs
-- Customers/frmShowPersonInfo.resx
+## Project Structure Highlights
+- Guna.UI2.WinForms.2.0.4.6/README.md
+- Program.cs
 - Guna.UI2.WinForms.2.0.4.6/.signature.p7s
 - Guna.UI2.WinForms.2.0.4.6/Guna.UI2.WinForms.2.0.4.6.nupkg
 - Guna.UI2.WinForms.2.0.4.6/LICENSE.txt
-- Guna.UI2.WinForms.2.0.4.6/README.md
 - Guna.UI2.WinForms.2.0.4.6/icon.png
 - Guna.UI2.WinForms.2.0.4.6/lib/net40/Guna.UI2.dll
+- Guna.UI2.WinForms.2.0.4.6/lib/net45/Guna.UI2.dll
+- Guna.UI2.WinForms.2.0.4.6/lib/net461/Guna.UI2.dll
+- Guna.UI2.WinForms.2.0.4.6/lib/net472/Guna.UI2.dll
+- Guna.UI2.WinForms.2.0.4.6/lib/net48/Guna.UI2.dll
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
+
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
